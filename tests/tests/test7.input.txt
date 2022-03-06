@@ -1,0 +1,17 @@
+newjob,A,100
+newjob,B,100
+interrupt
+interrupt
+interrupt
+interrupt
+interrupt
+runnable
+newjob,C,100
+block
+interrupt
+interrupt
+interrupt
+finish
+unblock,A
+
+
